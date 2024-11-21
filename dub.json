@@ -3,6 +3,9 @@
 		"Ștefan-Iulian Alecu"
 	],
 	"copyright": "Copyright © 2024, Ștefan-Iulian Alecu",
+	"dependencies": {
+		"argparse": "~>1.4.0"
+	},
 	"description": "An implementation of the Hades programming language",
 	"license": "MPL-2.0",
 	"name": "demeter"
